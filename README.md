@@ -8,13 +8,13 @@ This Portfolio is my first attempt with react to create a personal portfolio in 
 
 1. [Description](#Description)
 2. [Usage](#usage)
-3. [credits](#credits)
+3. [Credits](#Credits)
 
 ## Usage
 
 This app is entirely meant to allow me to practice with react and show off my skills and past projects to potential employers and/or colleagues!
 
-## credits
+## Credits
 
 Some sources were referred to in order to assist my understanding of the programs I was utilizing: 
 - [React Bootstrap](https://react-bootstrap.github.io/)
