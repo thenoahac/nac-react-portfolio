@@ -35,7 +35,7 @@ export const Projects = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
-                <h2>Projects</h2>
+                <h2>My Portfolio</h2>
                 <p>Below are my current three best projects that I personally feel show off my capabilities and skills as a Software Developer in the best way possible. Take a Look!</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
